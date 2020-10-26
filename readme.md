@@ -25,7 +25,7 @@ The digital divide in the United States, marked by unequal access to the interne
 
 * CleanReducer.py: the reducer program for cleaning the County Business Patterns data
 
-* cbpdata_clean.sql: commands for 
+* cbpdata_clean.sql: commands for CBP data cleaning
 
 
 /profiling_code
