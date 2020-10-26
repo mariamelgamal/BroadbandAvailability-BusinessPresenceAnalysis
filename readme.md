@@ -1,6 +1,6 @@
 # Exploring Broadband Availability and Business Presence in the US
 
-Mariam Elgamal 
+Mariam Elgamal, 
 Simran Parwani 
 
 ### Abstract
