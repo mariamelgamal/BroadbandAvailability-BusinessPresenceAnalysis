@@ -81,7 +81,6 @@ create external table cbp16 (stcnty_code string, state string, county string, na
 impala-shell
 connect compute-1-1;
 use <YOUR NETID>;
-
 ```
 
 5. Run profiling.sql file in impala using the source command from inside the impala-shell.
