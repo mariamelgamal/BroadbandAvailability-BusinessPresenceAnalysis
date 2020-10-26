@@ -1,7 +1,7 @@
 # Exploring Broadband Availability and Business Presence in the US
 
-Mariam Elgamal (me1553)
-Simran Parwani (sp4494)
+Mariam Elgamal 
+Simran Parwani 
 
 ### Abstract
 The digital divide in the United States, marked by unequal access to the internet, is especially relevant now with an increasingly digital economy and physical distancing practices. Our project explores the link between broadband infrastructure at the census block level with the economic presence of businesses in that region. Using Hadoop MapReduce and Apache Impala, we have uncovered major discrepancies in federal broadband data collection and found that counties with higher average broadband speeds tended to have higher payroll for a similar geographic composition. We further evaluated the discrepancies with tested broadband speeds and uncovered a digital divide case study based on rural-urban inequality.
