@@ -1,4 +1,3 @@
-
 --create cbp 2015 table 
 drop table if exists cbp15;
 create external table cbp15 (stcnty_code string, state string, county string, naics string, industry string, naics_dsc string, employment string, employment_flag string, annual_payroll string, annual_payroll_flag string, nes_receipts string, nes_receipts_flag string) row format delimited fields terminated by ',' location '/user/sp4494/business15/';
