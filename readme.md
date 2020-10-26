@@ -8,7 +8,7 @@ The digital divide in the United States, marked by unequal access to the interne
 
 ### Contents
 /ana_code
-* profiling.sql 
+* analytic.sql 
 
 
 /data_ingest
